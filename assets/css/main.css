@@ -1,0 +1,7 @@
+@import 'https://necolas.github.io/normalize.css/8.0.1/normalize.css';
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css';
+@import './global.css';
+@import './layout.css';
+@import './components.css';
+@import './typography.css';
